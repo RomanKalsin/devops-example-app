@@ -6,7 +6,7 @@ on:
       - v*
 
 env:
-  APP_IMAGE_NAME: hexletcomponents/devops-example-app
+  APP_IMAGE_NAME: karen52rus/devops-example-app
   CADDY_IMAGE_NAME: hexletcomponents/devops-example-caddy
 
 jobs:

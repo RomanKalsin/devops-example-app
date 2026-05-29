@@ -6,7 +6,7 @@ on:
       - 'main'
 
 env:
-  TEST_TAG: hexletcomponents/devops-example-app:test
+  TEST_TAG: karen52rus/devops-example-app:test
 
 jobs:
   docker:
@@ -37,7 +37,7 @@ jobs:
         with:
           context: .
           push: true
-          tags: hexletcomponents/devops-example-app:latest
+          tags: karen52rus/devops-example-app:latest
 
       - name: Build and push caddy
         uses: docker/build-push-action@v7
