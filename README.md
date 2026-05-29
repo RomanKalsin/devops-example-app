@@ -1,4 +1,5 @@
 # DevOps example app
+# rivlid
 
 ![CI status](https://github.com/hexlet-components/devops-example-app/actions/workflows/main.yml/badge.svg) [![Count docker images pulls](https://img.shields.io/docker/pulls/hexletcomponents/devops-example-app.svg)](https://hub.docker.com/r/hexletcomponents/devops-example-app)
 
