@@ -45,4 +45,4 @@ jobs:
           context: .
           file: services/caddy/Dockerfile
           push: true
-          tags: hexletcomponents/devops-example-caddy:latest
+          tags: karen52rus/devops-example-caddy:latest
